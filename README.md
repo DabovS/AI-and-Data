@@ -22,7 +22,11 @@ Integration with the enterprise model: Once the AI models have been developed, t
 
 The transition from enterprise modeling to AI enterprise modeling is a complex process that requires careful planning and execution. 
 
+**Enterprise Modelling**
+
 ![Model-2](https://user-images.githubusercontent.com/124214430/230164187-f4566ea6-2a82-484f-8cb0-f5955b4bf1c5.png)
+
+**AI Enterprise Modelling**
 
 ![Model-1](https://user-images.githubusercontent.com/124214430/230164209-93b9193f-0c63-4529-ac07-07601a19f902.png)
 
